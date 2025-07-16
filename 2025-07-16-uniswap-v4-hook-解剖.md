@@ -119,17 +119,4 @@ forge create --rpc-url eth_mainnet AutoCompounder
 Uniswap V4的Hook机制为DEX装上了「可编程关节」，开启了流动性管理的新纪元。LP复利Hook只是冰山一角，期待社区构建出更多改变DeFi格局的创新应用！
 
 [![测试覆盖率](https://img.shields.io/badge/coverage-98%25-green)]()
-GitHub发布步骤：
-访问 https://github.com/Web3Amanda/web3amanda.github.io/new/main
-文件名建议：2025-07-16-uniswap-v4-hook-解剖.md
-粘贴上述Markdown内容
-添加图片（可选）：可在同目录上传.assets/文件夹存放图表
-Commit提交
-此Markdown文档已针对GitHub Pages优化：
 
-包含Jekyll所需的前缀元数据
-代码高亮完整支持
-Mermaid流程图自动渲染
-移动端适配格式
-添加测试覆盖率徽章增强可信度
-如果遇到任何技术问题，可参考GitHub文档进行Jekyll配置。
