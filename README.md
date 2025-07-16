@@ -39,7 +39,7 @@ diff
 
 | 领域           | 工具链                  | 应用案例                 |
 |----------------|------------------------|------------------------|
-| 智能合约   | Solidity/Hardhat       | [ERC3525资产协议]  |
+| 智能合约   | Solidity/Hardhat       | ERC3525资产协议 |
 | 全栈开发   | Next.js/Web3.js        | DAO治理仪表盘           |
 | 基础设施   | IPFS/The Graph         | 链上数据分析引擎        |
 | 项目管理  | Jira/GitHub Projects   | 开源协作流程设计        |
