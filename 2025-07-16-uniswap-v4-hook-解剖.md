@@ -118,5 +118,4 @@ forge create --rpc-url eth_mainnet AutoCompounder
 ## 结语
 Uniswap V4的Hook机制为DEX装上了「可编程关节」，开启了流动性管理的新纪元。LP复利Hook只是冰山一角，期待社区构建出更多改变DeFi格局的创新应用！
 
-[![测试覆盖率](https://img.shields.io/badge/coverage-98%25-green)]()
 
